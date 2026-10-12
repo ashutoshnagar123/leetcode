@@ -15,5 +15,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2652-sum-multiples](https://github.com/ashutoshnagar123/leetcode/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/ashutoshnagar123/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ashutoshnagar123/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->
