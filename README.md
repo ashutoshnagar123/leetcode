@@ -41,4 +41,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ashutoshnagar123/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ashutoshnagar123/leetcode/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ashutoshnagar123/leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ashutoshnagar123/leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ashutoshnagar123/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
