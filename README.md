@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ashutoshnagar123/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/ashutoshnagar123/leetcode/tree/master/0055-jump-game) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ashutoshnagar123/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ashutoshnagar123/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashutoshnagar123/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ashutoshnagar123/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/ashutoshnagar123/leetcode/tree/master/0055-jump-game) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ashutoshnagar123/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashutoshnagar123/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashutoshnagar123/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/ashutoshnagar123/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/ashutoshnagar123/leetcode/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
